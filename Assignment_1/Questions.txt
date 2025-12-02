@@ -1,0 +1,29 @@
+1. Write a Java program to print your name, university name, and branch in three separate lines.
+2. Write a Java program to print the following pattern:
+*
+**
+***
+****
+3. Write a Java program that prints the sum, difference, product, and quotient of two numbers (use hardcoded values).
+4. Write a Java program to display the following output exactly:
+"Hello Java"
+Welcome to Programming
+5.Write a Java program to print the ASCII value of a character. (Example: A → 65)
+ 
+6.Write a Java program to take your name and age as input and print:
+Hello <name>, your age is <age>.
+7.Write a Java program to find the area of a circle using radius given by the user.
+8.Write a Java program to convert temperature from Celsius to Fahrenheit.
+9.Write a Java program to swap two numbers using a third variable.
+10.Write a Java program to swap two numbers without using a third variable.
+11.Write a Java program to check whether a number is even or odd.
+12.Write a Java program to read two integers and print the larger number.
+13.Write a Java program to check whether a number is divisible by both 3 and 5.
+14.Write a Java program to calculate the simple interest.
+15.Write a Java program that takes marks of 5 subjects and prints the total and percentage.
+ 
+16.Write a Java program to check whether a given year is a leap year or not.(Use IF conditions like in C.)
+17.Write a Java program to calculate the factorial of a number using a loop.
+18.Write a Java program to print all numbers from 1 to N that are divisible by 7.
+19.Write a Java program to reverse a given integer (example: 1234 → 4321).
+20.Write a Java program to find the largest among three numbers using conditional statements (no built-in functions).
